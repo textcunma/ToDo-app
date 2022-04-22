@@ -27,3 +27,11 @@ cd ./todo-app               # カレントディレクトリ移動
 npm run serve               # 実行
 npm install element-plus    # element-plusをインストール
 ```
+
+##　ビルド時の参考サイト
+- [GitHub Pagesにデプロイする](https://qiita.com/e-onm/items/f3ee8679599819084a78)
+    - docsフォルダを用いたGitHub Pages公開方法
+- [Vue.js初心者がよく間違えるvue/cliの使い方と解決方法の解説](https://iwb.jp/javascript-vuejs-cli-howto/)
+    - build出力ディレクトリ変更方法
+- [Vue CLI (Vue.js) で failed to load resource ...](https://qiita.com/ymatsuza/items/2348474175fb99e71b32)
+    - public pathについて
