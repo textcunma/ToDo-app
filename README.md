@@ -28,7 +28,7 @@ npm run serve               # 実行
 npm install element-plus    # element-plusをインストール
 ```
 
-##　ビルド時の参考サイト
+## ビルド時の参考サイト
 - [GitHub Pagesにデプロイする](https://qiita.com/e-onm/items/f3ee8679599819084a78)
     - docsフォルダを用いたGitHub Pages公開方法
 - [Vue.js初心者がよく間違えるvue/cliの使い方と解決方法の解説](https://iwb.jp/javascript-vuejs-cli-howto/)
